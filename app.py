@@ -1,3 +1,4 @@
+import os #added os import for safe API key placement
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
